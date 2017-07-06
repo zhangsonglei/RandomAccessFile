@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 /**
  *<ul>
- *<li>Class: Test
+ *<li>Class: AccessFileRandom
  *<li>Description:  测试文件的随机读取，根据偏移量定位文件位置进行读取
  *<li>Company: HUST
  *<li>@author Sonly
